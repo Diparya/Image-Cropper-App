@@ -1,3 +1,10 @@
+# Steps to use IMAGE CROPPER APP
+1.First click on upload button on the website.
+2.Select the image which you need to crop from your computer
+3.After the image gets uploaded on website, Drag and select the portion which you want to crop.
+4.Click on crop image button
+5.Finally you can see the croped image with x coordinates of an image,y coordinates of an image,width of an image and height of an image.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
